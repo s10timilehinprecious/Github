@@ -1,0 +1,1 @@
+(git merging , git clone , git git init , git add, git commit-m , git fetch , git pull , git push ) git command 
